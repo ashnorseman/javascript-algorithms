@@ -1,0 +1,10 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms in javascript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ash Zhang",
+  "license": "MIT"
+}
